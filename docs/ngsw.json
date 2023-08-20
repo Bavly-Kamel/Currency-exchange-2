@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1692565976153,
+  "timestamp": 1692568686398,
   "appData": {
     "version": "2.0.0",
     "changelog": "PWA integration has been completed."
@@ -17,7 +17,7 @@
       "urls": [
         "currency-exchang/favicon.ico",
         "currency-exchang/index.html",
-        "currency-exchang/main.d227582bb1905ab4.js",
+        "currency-exchang/main.5a85632730736c67.js",
         "currency-exchang/polyfills.cfcfb0d87c81127b.js",
         "currency-exchang/runtime.01fec06f14767966.js",
         "currency-exchang/styles.a15961c10eab4da3.css"
@@ -186,8 +186,8 @@
     "currency-exchang/fontello.bc058bc521a3452c.eot": "ac9de38a3c1274f952c1e72dfd6aacc11296dd3a",
     "currency-exchang/fontello.d91c739b6a7ee204.woff": "deb9077b366b048fa2334b57275c3f0f5f38f0b6",
     "currency-exchang/fontello.f19e7ac91064824d.woff2": "e61e0e59ef796696edf19d9e180b85d89bf91ca5",
-    "currency-exchang/index.html": "b3efbe00df0a2ef17cce675121940780c452dfa2",
-    "currency-exchang/main.d227582bb1905ab4.js": "f5d8367046055ef87bad2fa706d53e4ae42306f9",
+    "currency-exchang/index.html": "b9e5b343acee7a0a9e4f852a5f2491e70f7ab8c1",
+    "currency-exchang/main.5a85632730736c67.js": "94bf5d48d6033706fb1f344a6ea95e67ba7072d4",
     "currency-exchang/polyfills.cfcfb0d87c81127b.js": "452d6eb7ffafa57074079d34197407c9525ef870",
     "currency-exchang/runtime.01fec06f14767966.js": "80fe647261b5c1e6d77e34291f024ee992a02341",
     "currency-exchang/styles.a15961c10eab4da3.css": "5be8eaf85774507dd7246f76fcbd4961c39a147c"
